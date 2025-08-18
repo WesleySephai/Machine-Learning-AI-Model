@@ -26,5 +26,14 @@
  ### Deep Learning (DL):
  A specialized subset of ML that uses neural networks with multiple layers to model complex patterns, often used for tasks like image recognition and natural language processing.
 
+### Supervised Learning
+ • Known target label
+ • Ex: Spam classification, Image classification, Gender classification
+
+### Unsupervised Learning
+ • Target label is not defined
+ • Try to identify similarities between the data provided 
+• Categorize them based on the similarities
+ 
 # Linear-Regression-Model
 Build a model to predict salary based on the number years of experience.   Data: Use the Salary_Data dataset and analyse the relationship between YearsExperience and Salary variables using a linear regression.
