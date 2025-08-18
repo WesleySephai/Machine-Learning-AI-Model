@@ -26,5 +26,52 @@
  ### Deep Learning (DL):
  A specialized subset of ML that uses neural networks with multiple layers to model complex patterns, often used for tasks like image recognition and natural language processing.
 
-# Linear-Regression-Model
+# Supervised Learning
+ • Known target label
+ • Ex: Spam classification, Image classification, Gender classification
+
+ ### Classification
+ • To identify the category of the data i.e. target label (categorical data)
+ • Algorithm learns from the training data and identifies the category or class of the test data
+
+### Regression
+ • To identify the value of the dependent variable
+ • Target variable is real valued
+ • Ex: House price prediction, temperature prediction
+ 
+# Unsupervised Learning
+ • Target label is not defined
+ • Try to identify similarities between the data provided 
+• Categorize them based on the similarities
+
+### Clustering
+ • An unsupervised machine learning technique 
+• Group similar data points into clusters based on their features. 
+• Unlike classification, clustering works without labeled data, 
+• Aims to discover the underlying structure in the data.
+
+# Applications
+ • Healthcare: Disease prediction, drug discovery.
+ 
+ • Finance: Fraud detection, stock price prediction.
+ 
+ • Retail: Customer segmentation, inventory optimisation.
+ 
+ • Transportation: Autonomous vehicles, route optimisation.
+ 
+ • Entertainment: Content recommendation, video game AI.
+
+ # Challenges
+ 
+ • Data Quality: Incomplete or noisy data.
+ 
+ • Overfitting: Model performs well on training data but poorly on test data.
+ 
+ • Bias and Fairness: Ethical concerns in model decisions.
+ 
+ • Interpretability: Understanding model decisions
+
+
+# Project
+### Linear-Regression-Model
 Build a model to predict salary based on the number years of experience.   Data: Use the Salary_Data dataset and analyse the relationship between YearsExperience and Salary variables using a linear regression.
