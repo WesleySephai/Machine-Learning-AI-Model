@@ -1,6 +1,7 @@
 # Agenda
  • Machine Learning Concepts
- 
+ • Key Terminologies
+
  • Types of Machine Learning:
  • Supervised Learning
  • Unsupervised Learning
@@ -25,6 +26,26 @@
  A subset of AI where systems learn patterns from data to make predictions or decisions without explicit programming.
  ### Deep Learning (DL):
  A specialized subset of ML that uses neural networks with multiple layers to model complex patterns, often used for tasks like image recognition and natural language processing.
+
+## Key Terminologies and concepts
+
+• Training Data: Known data
+
+• Training Dataset: Set of the complete training data
+
+• Testing Data: Unknown/Unseen data
+
+• Testing dataset: Set of the complete test data
+
+• Model: Algorithm that is being trained
+
+• Training of a model: Generalizing the model based on training dataset to predict results of test data
+
+• Testing of a model: Predicting the results for test data 
+
+• Evaluating a model: How good the model performs for unseen data
+
+
 
 # Supervised Learning
  • Known target label
