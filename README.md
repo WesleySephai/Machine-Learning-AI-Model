@@ -55,10 +55,14 @@
  • To identify the category of the data i.e. target label (categorical data)
  • Algorithm learns from the training data and identifies the category or class of the test data
 
+ Algorithms: 1. Logistic Regression, 2. KNN, 3. Super Vector Machine, 4. Decision Trees, 5. Random Forest
+
 ### Regression
  • To identify the value of the dependent variable
  • Target variable is real valued
  • Ex: House price prediction, temperature prediction
+
+ Algorithms: 1. Linear Regression, 2. K Nearest Neighbours, 3. Super Vecto Machine, 4. Decision Trees, 5. Random Forest
  
 # Unsupervised Learning
  • Target label is not defined
@@ -92,6 +96,19 @@
  
  • Interpretability: Understanding model decisions
 
+
+# Flow of a Machine Learning Project
+
+1. Understand the Problem Statement
+2. Data Gathering/ Data Collection
+3. Decide data science terchnology to be used -> DL, ML, NLP
+4. Exploratory Data Analysis
+5. Decide the base line in ML model
+6. Training the model on training data
+7. Evaluate the model on the testing data
+8. Hyper parameter tuning
+9. Re-evaluate the model
+10. Base line model 2
 
 # Project
 ### Linear-Regression-Model
